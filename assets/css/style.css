@@ -33866,22 +33866,22 @@ textarea.form-control-lg {
   margin-top: auto;
 }
 
-.logo-wrap {
+/* .logo-wrap {
   display: flex;
   position: relative;
   height: 100%;
   background-color: #fff;
   border-radius: 100px;
-}
+} */
 
-.logo-link {
+/* .logo-link {
   display: inline-flex;
   max-height: 26px;
-}
+} */
 
-.logo-img {
+/* .logo-img {
   height: 100%;
-}
+} */
 
 .logo-img:not(:first-child) {
   position: absolute;
