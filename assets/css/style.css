@@ -35328,12 +35328,12 @@ img {
 
 
 /* header-hero */
-.nk-hero-content h3,
+.nk-hero-content h1,
 .nk-hero-content h4 {
   letter-spacing: 0.8px;
 }
 
-.nk-hero-content h3 {
+.nk-hero-content h1 {
   font-size: 1.3rem;
   opacity: 0.95;
 }
